@@ -8,7 +8,6 @@ This repository contains a fully interactive **Power BI dashboard** designed to 
 
 - **Dynamic Filtering**: Explore data by year and month using slicers
 - **Total Sales Overview**: Key KPIs like total sales, quantity sold, average price, and transactions
-- **Geographical Insights**: Sales distribution visualized on a map by city
 - **Product Performance**: Top-selling smartphone brand comparison
 - **Customer Ratings**: Visual representation of customer satisfaction levels
 - **Sales Trends**: Daily and weekly sales trends to identify peak performance
