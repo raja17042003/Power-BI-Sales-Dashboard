@@ -1,4 +1,3 @@
-# DATA AUTOMATION --- POWER-BI
 # 📱 Smartphone Sales Dashboard – Power BI
 
 This repository contains a fully interactive **Power BI dashboard** designed to analyze and visualize smartphone sales data. The dashboard provides meaningful business insights through data storytelling and allows users to explore sales trends, product performance, customer feedback, and transaction behaviors.
